@@ -1,0 +1,30 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Assignment 1</title>
+</head>
+<body>
+[BETWEEN THE BODY TAGS IS WHAT THE BROWSER WILL SHOW]
+<h1>My IT Profile</h1>
+<h1>Nathan Crabb</h1>
+<p>Student ID 	 		s3917983</p1>
+<p>Student Email 	 	s3917983@student.rmit.edu.au</p1>
+<p>My Name is Nathan Crabb and I am a kiwi!  Been over the ditch from NZ approximately fifteen years.  Married with an eleven year old son, two cats Gemma and Boff and a 15 month old Maremma puppy named teddy.  He is hardly the size of a puppy anymore!
+My hobbies include;
+	Driving for Uber in my spare time (Its quite often nowadays although I try to restrict it to workday afternoons)
+Painting Warhammer miniatures (Never ends – heaps to get through but airbrush helps lots!)
+Fixing cars / motorcycles (Almost getting out of control – 5 motorcycles & 4 cars)
+The odd run, trip to the gym / pool (I get in for free since I work for council)
+Reading (would like to read more – disappointed I spent a whole year on game of thrones and only got to book Four) Also like Asimov, Doctor Who, the Jack Reacher series, 2000AD and all the classics.  Jimmy Barnes book working class boy was the last one and I’m on to working class man now.
+Mowing lawns / Gardening for customers (I don’t do as much as I used too as I find Uber much easier but people still call)
+Addicted to Fortnite (although working through the Introduction to Information course has helped immensely with this.</p><html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
